@@ -1,6 +1,6 @@
 
 # iosplaypcvideodlna
-ios播放本地服务器视频，dlna投射视频到盒子上
+ios播放本地服务器多种格式视频，dlna投射视频到盒子上
 MobileVLCKit.framework因为太大（900mb）没有上传，请自行下载
 
 ```
@@ -15,9 +15,9 @@ MobileVLCKit.framework因为太大（900mb）没有上传，请自行下载
 
 ## 效果展示
 
-###手机视频
+### 手机视频
 ![](test.gif)
 
-###电视盒子
+### 电视盒子
 ![](test.jpg)
 
